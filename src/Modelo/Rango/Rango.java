@@ -14,5 +14,7 @@ public abstract class Rango {
     public void setNivel(int nivel) {
         this.nivel = nivel;
     }
+
+    public abstract void realizarAccion();
     
 }

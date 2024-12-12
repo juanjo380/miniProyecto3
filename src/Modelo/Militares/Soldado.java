@@ -23,5 +23,9 @@ public class Soldado extends Rango {
     public void setId(String id) {
         this.id = id;
     }
+    @Override
+    public void realizarAccion() {
+        System.out.println("Soldado en posición de ataque");
+    }
     
 }
