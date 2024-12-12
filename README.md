@@ -1,18 +1,9 @@
-## Getting Started
+## Mini proyecto #3
+Este miniproyecto consta de la implementación de el mvc (Modelo, vista controlador) 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+GRUPO:
+Juan José Bolaños Serna 202380616-3743
+Santiago Velasquez Bedoya 202380378-3743
+Julian Andres Rojas Palacio 202459687-2724
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Trabajamos cada uno en una subrama independiente y al final todo se sube a la rama deploy para aprobar todo y subir al main
