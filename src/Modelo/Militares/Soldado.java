@@ -1,6 +1,6 @@
-package Modelo.Militares;
+package modelo.Militares;
 
-import Modelo.Rango;
+import modelo.Rango;
 
 public class Soldado extends Rango {
     private String nombre;

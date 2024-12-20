@@ -1,6 +1,6 @@
-package Modelo.Militares;
+package modelo.Militares;
 
-import Modelo.OperacionesMilitares;
+import modelo.OperacionesMilitares;
 
 public class Coronel extends Soldado implements OperacionesMilitares {
     private String estrategia;

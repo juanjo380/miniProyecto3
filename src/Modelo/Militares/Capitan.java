@@ -1,6 +1,6 @@
-package Modelo.Militares;
+package modelo.Militares;
 
-import Modelo.OperacionesMilitares;
+import modelo.OperacionesMilitares;
 
 public class Capitan extends Soldado implements OperacionesMilitares {
     private int cantidadSoldadosBajoSuMando;

@@ -1,6 +1,6 @@
-package Modelo.Militares;
+package modelo.Militares;
 
-import Modelo.OperacionesMilitares;
+import modelo.OperacionesMilitares;
 
 public class SoldadoRaso extends Soldado implements OperacionesMilitares {
 

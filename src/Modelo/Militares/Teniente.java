@@ -1,6 +1,6 @@
-package Modelo.Militares;
+package modelo.Militares;
 
-import Modelo.OperacionesMilitares;
+import modelo.OperacionesMilitares;
 
 public class Teniente extends Soldado implements OperacionesMilitares {
     private String unidad;

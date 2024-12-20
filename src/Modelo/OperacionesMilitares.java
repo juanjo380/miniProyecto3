@@ -1,4 +1,4 @@
-package Modelo;
+package modelo;
 
 public interface OperacionesMilitares {
     void asignarMision(String mision);

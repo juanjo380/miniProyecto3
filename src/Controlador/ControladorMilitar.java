@@ -1,7 +1,7 @@
-package Controlador;
+package controlador;
 
-import Modelo.ModeloMilitar;
-import Modelo.Militares.Soldado;
+import modelo.ModeloMilitar;
+import modelo.Militares.Soldado;
 import java.util.List;
 
 public class ControladorMilitar {

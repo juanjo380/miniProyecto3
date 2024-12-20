@@ -9,4 +9,6 @@ Santiago Velasquez Bedoya 202380378-3743
 
 Julian Andres Rojas Palacio 202459687-2724
 
+Mariana Bustamante Restrepo 202359453-3743
+
 Trabajamos cada uno en una subrama independiente y al final todo se sube a la rama deploy para aprobar todo y subir al main

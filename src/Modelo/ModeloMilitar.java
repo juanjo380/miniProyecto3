@@ -1,6 +1,6 @@
-package Modelo;
+package modelo;
 
-import Modelo.Militares.Soldado;
+import modelo.Militares.Soldado;
 
 import java.util.ArrayList;
 import java.util.List;
